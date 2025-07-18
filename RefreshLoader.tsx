@@ -5,4 +5,3 @@ export function RefreshLoader() {
     </div>
   );
 }
-Delete page.tsx
